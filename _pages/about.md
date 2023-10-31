@@ -22,6 +22,7 @@ My research interest includes:
 - Risk Management based on Data analysis and statistics, engineering methodologies.
 - Diffusion based Generative Challenges or Drawbacks with noises.s
 
+You can download my CV at [here](./CV_Keywoong_Bae.pdf)
 
 <br>
 
