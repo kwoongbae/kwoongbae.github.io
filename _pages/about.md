@@ -6,7 +6,7 @@ subtitle: M.S. student on Risk Management
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.png
   address: >
     <p>Pohang, South Korea</p>
 
