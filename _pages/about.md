@@ -20,7 +20,7 @@ I’m a M.S. student at **Actuarial modeling, Insurance and Risk Management Lab*
 My research interest includes:
 
 - Risk Management based on Data analysis and statistics, engineering methodologies.
-- Diffusion based Generative Challenges or Drawbacks with noises.s
+- Diffusion based Generative Challenges or Drawbacks with noises.
 
 You can download my CV at **[here](../assets/pdf/CV.pdf)**
 
