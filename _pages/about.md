@@ -6,7 +6,7 @@ subtitle: M.S. student on Risk Management
 
 profile:
   align: right
-  image: profileneurips.png
+  image: profileneurips.jpg
   address: >
     <p></p>
 
