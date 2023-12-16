@@ -6,7 +6,7 @@ subtitle: M.S. student on Risk Management
 
 profile:
   align: right
-  image: profile.png
+  image: profile1.png
   address: >
     <p></p>
 
@@ -19,10 +19,11 @@ I’m a M.S. student at **Actuarial modeling, Insurance and Risk Management Lab*
 
 My research interest includes:
 
-- Risk Management based on Data analysis and statistics, engineering methodologies.
-- Diffusion based Generative Challenges or Drawbacks with noises.
+- Correlation between Cyber Risk and Natural Catastrophes
+- Risk Management and Insurance based on engineering/statistical methodologies.
+- Observing the drawbacks of diffusion models with adversarial attacks based on corruptions.
 
-You can download my CV at **[here](../assets/pdf/CV.pdf)**
+You can download my CV at **[here](../assets/pdf/CV-231215.pdf)**
 
 <br>
 
