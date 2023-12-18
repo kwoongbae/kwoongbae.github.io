@@ -11,7 +11,7 @@ profile:
     <p></p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
@@ -19,9 +19,9 @@ I’m a M.S. student at **Actuarial modeling, Insurance and Risk Management Lab*
 
 My research interest includes:
 
-- Correlation between *Cyber Risk* and *Natural Catastrophes*.
-- *Risk Management* and *Insurance* based on engineering/statistical methodologies.
-- Observing the drawbacks of *diffusion models* with *adversarial attacks* based on corruptions.
+- Correlation between Cyber Risk and Natural Catastrophes.
+- Risk Management and Insurance based on engineering/statistical methodologies.
+- Observing the drawbacks of diffusion models with adversarial attacks based on corruptions.
 
 You can download my CV at **[here](../assets/pdf/CV_231215.pdf)**
 
