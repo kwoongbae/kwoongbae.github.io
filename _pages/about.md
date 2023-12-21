@@ -6,7 +6,7 @@ subtitle: M.S. student on Risk Management
 
 profile:
   align: right
-  image: from_kakao.jpg
+  image: from_kakao1.jpg
   address: >
     <p></p>
 
