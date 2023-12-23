@@ -6,7 +6,7 @@ subtitle: M.S. student on Risk Management
 
 profile:
   align: right
-  image: proflie_g.jpg
+  image: profile_g.jpg
   address: >
     <p></p>
 
