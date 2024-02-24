@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. student on Risk Management
+subtitle: M.S. student on Risk Management / kwbae@postech.ac.kr
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I’m a M.S. student at **Actuarial modeling, Insurance and Risk Management Lab** in Pohang University of Science and Technology (POSTECH), under the supervision of Prof. Kwangmin Jung.
+I’m a M.S. student at [Actuarial modeling, Insurance and Risk Management Lab](https://airm.postech.ac.kr/) in Pohang University of Science and Technology (POSTECH), under the supervision of Prof. Kwangmin Jung.
 
 My research interest includes:
 
