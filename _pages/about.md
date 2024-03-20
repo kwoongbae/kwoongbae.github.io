@@ -6,7 +6,7 @@ subtitle: M.S. student on Risk Management / kwbae@postech.ac.kr
 
 profile:
   align: right
-  image: profile.JPG
+  image: profile_g1.jpg
   address: >
     <p></p>
 
