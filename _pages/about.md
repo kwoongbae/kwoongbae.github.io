@@ -23,7 +23,7 @@ My research interest includes:
 - Risk Management and Insurance based on engineering/statistical methodologies.
 - Observing the drawbacks of diffusion models with adversarial attacks based on corruptions.
 
-You can download my CV at **[here](../assets/pdf/CV_231215.pdf)**
+You can download my CV at **[here](../assets/pdf/CV_Keywoong_Bae_0320.pdf)**
 
 <br>
 
