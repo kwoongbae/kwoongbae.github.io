@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: K.Bae
 permalink: /
 subtitle: M.S. student on Risk Management / kwbae@postech.ac.kr
 
