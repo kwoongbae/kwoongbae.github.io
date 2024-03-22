@@ -28,9 +28,9 @@ You can download my CV at **[here](../assets/pdf/CV_K,Bae.pdf)**
 <br>
 
 ## Education
-- M.S. in Department of Industrial and Management Engineering, POSTECH (Sep, 2023. - Present.)
+- M.S. in Department of Industrial and Management Engineering, **POSTECH** (Sep, 2023. - Present.)
   
-- B.S. in Department of Industrial Engineering, Inha University (Mar, 2019. - Aug, 2023.)
+- B.S. in Department of Industrial Engineering, **Inha University** (Mar, 2019. - Aug, 2023.)
 
 
 <br>
