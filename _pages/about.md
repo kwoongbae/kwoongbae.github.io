@@ -19,8 +19,8 @@ I’m a M.S. student at [Actuarial modeling, Insurance and Risk Management Lab](
 
 My research interest includes:
 
-- Finance: Risk Management of Systemic Cyber Risk using Actuarial modeling and Scenario analysis.
-- AI: Observation on drawbacks of Diffusion models using adversarial attacks.
+- **Finance:** Risk Management of Systemic Cyber Risk using Actuarial modeling and Scenario analysis.
+- **AI:** Observation on drawbacks of Diffusion models using adversarial attacks.
 
 You can download my CV at **[here](../assets/pdf/CV_K,Bae.pdf)**
 
