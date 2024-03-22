@@ -19,9 +19,8 @@ I’m a M.S. student at [Actuarial modeling, Insurance and Risk Management Lab](
 
 My research interest includes:
 
-- Correlation between Cyber Risk and Natural Catastrophes.
-- Risk Management and Insurance based on engineering/statistical methodologies.
-- Observing the drawbacks of diffusion models with adversarial attacks based on corruptions.
+- Finance: Risk Management of Systemic Cyber Risk using Actuarial modeling and Scenario analysis.
+- AI: Observation on drawbacks of Diffusion models using adversarial attacks.
 
 You can download my CV at **[here](../assets/pdf/CV_K,Bae.pdf)**
 
