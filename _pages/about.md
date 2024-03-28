@@ -15,12 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a M.S. student at [Actuarial modeling, Insurance and Risk Management Lab](https://airm.postech.ac.kr/) in Pohang University of Science and Technology (POSTECH), under the supervision of Prof. Kwangmin Jung.
+I’m a M.S. student at **AIRM Lab** ([Actuarial modeling, Insurance and Risk Management Lab](https://airm.postech.ac.kr/)) in Pohang University of Science and Technology (**POSTECH**), under the supervision of Prof. Kwangmin Jung.
 
-My research interest includes:
+I'm interested in a variety of fields, especially Finance and Deep learning. My research interests include: 
 
 - **Finance:** Risk Management of Systemic Cyber Risk using Actuarial modeling and Scenario analysis.
-- **Deep Learning:** Observation on internal mechanism of Diffusion generative models.
+- **Deep Learning:** Observation of internal mechanism on Diffusion generative models.
 
 You can download my CV at **[here](../assets/pdf/CV_K,Bae.pdf)**
 
