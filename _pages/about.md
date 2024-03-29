@@ -19,7 +19,7 @@ Thanks for visiting my website! I'm a Master student in Department of Industrial
 Currently, I'm intersted in various fields, especially Finance and AI. My research interests include:  
 
 - **Finance:** Risk Management of Systemic Cyber Risk using Actuarial modeling and Scenario analysis.
-- **Deep Learning:** Observation of internal mechanism on Diffusion generative models.
+- **AI:** Observation of internal mechanism on Diffusion based deep generative models.
 
 You can download my CV at **[here](../assets/pdf/CV_K,Bae.pdf)**
 
