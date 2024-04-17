@@ -6,13 +6,11 @@ layout: parse
 
   <!-- Head -->
 <head>
-  {% if page.use_math %}
-    {% include mathjax_support %}
-  {% endif %}
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl | prepend: site.url }}/" />
   {%- endif -%}
   {% include head.html %}
+  {% include mathjax_support %}
 </head>
 
 
