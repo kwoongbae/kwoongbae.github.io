@@ -13,6 +13,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+use_math: true
 ---
 Thanks for visiting my website! I'm a Master student in Department of Industrial and Management Engineering at POSTECH. I'm on research at [Actuarial modeling, Insurance and Risk Management (AIRM) Lab](https://airm.postech.ac.kr/), under the supervision of Prof. Kwangmin Jung.
 
