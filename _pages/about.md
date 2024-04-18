@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Thanks for visiting my website! I'm a Master student in Department of Industrial and Management Engineering at POSTECH. I'm on research at [Actuarial modeling, Insurance and Risk Management (AIRM) Lab](https://airm.postech.ac.kr/), under the supervision of Prof. Kwangmin Jung.
 
-Currently, I'm intersted in various fields, especially Finance and AI. My research interests include: $$x$$
+Currently, I'm intersted in various fields, especially Finance and AI. My research interests include:
 
 - **Finance:** Risk Management of Systemic Cyber Risk using Actuarial modeling and Scenario analysis.
 - **AI:** Observation of internal mechanism on Diffusion based deep generative models.
