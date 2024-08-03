@@ -19,6 +19,8 @@ Thanks for visiting my website! I'm a Master student in Department of Industrial
 You can see more detailed information in my [Curriculum Vitae(CV)](../assets/pdf/CV_K,Bae.pdf).
 
 <br>
+<br>
+<br>
 
 ## Education
 - M.S. in Department of Industrial and Management Engineering, **POSTECH** (Sep, 2023. - Present.)
