@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Thanks for visiting my website! I'm a Master student in Department of Industrial and Management Engineering at POSTECH. I'm on research at [Actuarial modeling, Insurance and Risk Management (AIRM) Lab](https://airm.postech.ac.kr/), under the supervision of Prof. Kwangmin Jung.
 
-You can see more detailed information via my [Curriculum Vitae(CV)](../assets/pdf/CV_K_Bae.pdf).
+You can see more detailed information via my [Curriculum Vitae (CV)](../assets/pdf/CV_K_Bae.pdf).
 
 <br>
 <br>
