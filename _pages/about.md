@@ -16,7 +16,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 Thanks for visiting my website! 
 
-I'm a Master student in Dept. of Industrial and Management Engineering at POSTECH. My research interests include integrating a **Deep Understanding of Finance** with **AI Development Capabilities** to explain financial phenomena from an engineering-oriented perspective. 
+I'm a Master student in Dept. of Industrial and Management Engineering at POSTECH. My research interests include 
+
+- **(Finance)** Emerging Risks and its modelling based on mathematical and statistical methodologies;
+- **(Deep Learning)** Generaliztion of internal mechanism on AI models using adversarial attacks.
+
+My purpose is to explain financial phenomena based on a Deep Understanding of Finance with AI Development Capabilities. 
 
 I'm currently research on systemic cyber risk and its modelling at [Actuarial modeling, Insurance and Risk Management (AIRM) Lab](https://airm.postech.ac.kr/), under the supervision of Prof. Kwangmin Jung.
 
