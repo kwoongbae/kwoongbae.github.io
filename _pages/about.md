@@ -20,8 +20,8 @@ I'm a Master student in Dept. of Industrial and Management Engineering at POSTEC
 
 My research interests include 
 
-- **(Finance)** Emerging Risks and its modelling based on mathematical and statistical methodologies;
-- **(Deep Learning)** Generaliztion of internal mechanism on AI models using adversarial attacks.
+- **(Finance)** Emerging risks and insurance regulatory capital based on mathematical and statistical methodologies;
+- **(AI)** Generaliztion of internal mechanism on AI models using adversarial attacks.
 
 I'm currently research on systemic cyber risk and its modelling at [Actuarial modeling, Insurance and Risk Management (AIRM) Lab](https://airm.postech.ac.kr/), under the supervision of Prof. Kwangmin Jung.
 
