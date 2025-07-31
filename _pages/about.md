@@ -16,7 +16,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 Thanks for visiting my website! 
 
-I'm a Master student in Dept. of Industrial and Management Engineering at POSTECH. My research interests include 
+I'm a Master student in Dept. of Industrial and Management Engineering at POSTECH. 
+
+My research interests include 
 
 - **(Finance)** Emerging risks and insurance regulatory capital with mathematical and statistical methodologies;
 - **(AI)** Generalization of internal mechanism on AI models with adversarial attacks.
