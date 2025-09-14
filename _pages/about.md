@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Thanks for visiting my website! 
+I'm a Data Scientist @[Sixty Hertz](https://60hz.io/en)
 
 I received my **M.S. from Pohang University of Science and Technology (POSTECH)** in August 2025. Since September 2025, I have been serving in South Korea as **Professional Research Personnel (Alternative Military Service)**, with an expected completion in 2027. 
 
