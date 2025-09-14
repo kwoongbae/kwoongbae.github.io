@@ -18,7 +18,7 @@ I'm a Data Scientist in the Team DS at [Sixty Hertz](https://60hz.io/en)
 
 I received my **M.S. from Pohang University of Science and Technology (POSTECH)** in August 2025. Since September 2025, I have been serving in South Korea as **Professional Research Personnel (Alternative Military Service)**, with an expected completion in 2027. 
 
-I am highly motivated to analyze **financial phenomena through data-driven research**. Throughout my undergraduate and graduate curriculum, I have utilized a wide range of approaches from classical statistical techniques to state-of-the-art AI. With these experiences, I'm eager to study financial phenomena from two complementary angles: **i) an engineering viewpoint** focused on improving analytical performance and **(ii) an economic perspective** aimed at deriving practical, real-world implications. With this background and these research interests, I aim to make meaningful contributions to the field.
+You can see more detailed information in [CV](../assets/pdf/CV_K_Bae.pdf).
 
 
 ## Education
