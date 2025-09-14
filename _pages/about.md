@@ -20,6 +20,7 @@ I received my M.S. from Pohang University of Science and Technology (POSTECH) in
 
 You can see more detailed information in [CV](../assets/pdf/CV_K_Bae.pdf).
 
+<br>
 
 ## Education
 - M.S. in Department of Industrial and Management Engineering, **POSTECH** (Sep. 2023 - Aug. 2025)
