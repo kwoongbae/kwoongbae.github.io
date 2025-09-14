@@ -2,7 +2,7 @@
 layout: about
 title: K.Bae
 permalink: /
-subtitle: M.S. student on Finance / kwbae@postech.ac.kr
+subtitle: Data Scientist / kw.bae@60hz.io
 
 profile:
   align: right
@@ -16,17 +16,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 Thanks for visiting my website! 
 
-I'm a Master student in Dept. of Industrial and Management Engineering at POSTECH. I'm interested in 
+I received my **M.S. from Pohang University of Science and Technology (POSTECH)** in August 2025. Since September 2025, I have been serving in South Korea as **Professional Research Personnel (Alternative Military Service)**, with an expected completion in 2027. 
 
-- **Risk Management:** How <u>systemic cyber risk</u> affects <u>insurance regulatory models</u>;
-- **AI:** Performance degradation in <u>Deep Learning</u> (e.g., Multi-modal and Diffusion generative models) under <u>adversarial attacks</u> on input distributions. 
-
-I'm currently research at [Actuarial modeling, Insurance and Risk Management (AIRM) Lab](https://airm.postech.ac.kr/), under the supervision of Prof. Kwangmin Jung.
-
-You can see more detailed information via my [Curriculum Vitae (CV)](../assets/pdf/CV_K_Bae.pdf).
-
-<br>
-<br>
+\vspace{1\baselineskip}
+I am highly motivated to analyze **financial phenomena through data-driven research**. Throughout my undergraduate and graduate curriculum, I have utilized a wide range of approaches from classical statistical techniques to state-of-the-art AI. With these experiences, I'm eager to study financial phenomena from two complementary angles: **i) an engineering viewpoint** focused on improving analytical performance and **(ii) an economic perspective** aimed at deriving practical, real-world implications. With this background and these research interests, I aim to make meaningful contributions to the field.
 
 
 ## Education
