@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Welcome to my page! I'm a Data Scientist in the Team DS **[@Sixty Hertz](https://60hz.io/en)**
 
-I received my M.S. from Pohang University of Science and Technology (POSTECH) in August 2025. Currently, I have been serving in South Korea as **Professional Research Personnel (Alternative Military Service)** since Sep. 2025, with an expected completion in 2027. 
+I received my M.S. from Pohang University of Science and Technology (POSTECH) in August 2025. Currently, I have been serving in South Korea as **Professional Research Personnel (Alternative Military Service)** since Sep. 2025, with an expected completion in 2028. 
 
 You can see more detailed information about me via **[CV](../assets/pdf/CV_K_Bae.pdf)**.
 
